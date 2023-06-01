@@ -1,5 +1,7 @@
-It is true, I have started looking for a new job.<br>
-If you're here, you hopefully already have a copy of this. But now you get to know how cool I am for writing it in LaTeX. I don't even have that listed as a skill, wow!<br>
+It is true, I am finally looking for a new job.<br>
+What kind of nerd writes their resume in code and uses version control. I don't even have LaTeX listed as a skill, wow!<br>
 
-![Nathan McCandlish Resume.pdf](/Nathan%20McCandlish%20resume%20-%20Senior%20Engineer.pdf?raw=true)
+TODO: make a .md resume format and put it here instead of snark
+
+![Nathan McCandlish Resume.pdf](/resume.pdf?raw=true)
 
